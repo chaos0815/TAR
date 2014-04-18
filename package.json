@@ -1,0 +1,14 @@
+{
+  "name": "AwesomeRaceDaemon",
+  "version": "0.0.0",
+  "description": "race server",
+  "main": "tard.js",
+  "repository": "",
+  "author": "Christiahn Wolf <christian.wolf@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14",
+    "mongodb": ">= 0.9.6-7"
+  }
+}
